@@ -7,8 +7,9 @@ namespace BTree
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var tree = new Tree();
-            Console.WriteLine(tree.ToString());
+            var page = new Page();
+
+
         }
     }
 }
